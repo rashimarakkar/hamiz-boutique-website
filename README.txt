@@ -25,3 +25,8 @@ BEFORE PUBLISHING:
 - Google Fonts load from the internet; fallback fonts are included.
 
 Homepage hero image: assets/premium-boutique-hero.jpg (premium boutique display; Hameeda's portrait remains on the About page and story section).
+
+SOCIAL SHARING:
+- Open Graph and Twitter card titles, descriptions and canonical URLs are set on each page.
+- The homepage boutique hero image is used as the shared preview image.
+- Update the canonical and social URLs in each HTML page if the public domain changes.
